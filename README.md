@@ -1,7 +1,7 @@
 # vim-textobj-twig
 Make twig tags ({% %}) text objects.
 
-Almost entirely copied from [haggertypat/vim-textobj-erb](https://github.com/haggertypat/vim-textobj-erb).
+Almost entirely copied from [whatyouhide/vim-textobj-erb](https://github.com/whatyouhide/vim-textobj-erb). (literally just changed <> to {})
 
 Uses [kana/vim-textobj-user](https://github.com/kana/vim-textobj-entire) and depends on it.
 
