@@ -17,8 +17,8 @@ let s:right = s:whitespace . s:right_modifiers . '%}'
 call textobj#user#plugin('twig', {
 \   '-': {
 \     'pattern': [s:left, s:right],
-\     'select-a': 'at',
-\     'select-i': 'it'
+\     'select-a': 'aT',
+\     'select-i': 'iT'
 \   },
 \ })
 

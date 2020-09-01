@@ -6,12 +6,12 @@ Almost entirely copied from [whatyouhide/vim-textobj-erb](https://github.com/wha
 Uses [kana/vim-textobj-user](https://github.com/kana/vim-textobj-entire) and depends on it.
 
 ## Use
-Just use `it` for changing <b>i</b>nside an twig tag, and `at` for changing
+Just use `iT` for changing <b>i</b>nside an twig tag, and `aT` for changing
 <b>a</b>round it (`{%` and `%}` included).
 
-- visually select inside the block with `vit`
-- change inside another block with `cit`
-- delete around a block with `dat`
+- visually select inside the block with `viT`
+- change inside another block with `ciT`
+- delete around a block with `daT`
 
 
 ## Installation
